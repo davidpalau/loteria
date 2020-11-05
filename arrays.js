@@ -22,7 +22,7 @@
        let bola = 0;
 
        //Llenado del bombo
-       for (let i = 0; i < numBolas; i++) {
+       for (let i = 1; i <= numBolas; i++) {
            loteria[i] = i;
        }
 
